@@ -34,3 +34,6 @@
   - 🍁 **Wallpaper** - [swww](https://github.com/Horus645/swww) 
   - ❄️ **Screen locker** - [gtklock](https://github.com/jovanlanik/gtklock) 
 
+
+### Thanks 
+- [Thank you for your help.](https://github.com/linkfrg/)
