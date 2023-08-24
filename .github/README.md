@@ -33,7 +33,7 @@
   - 🌻 **Launcher** - [Rofi](https://github.com/lbonn/rofi) 
   - 🍁 **Wallpaper** - [swww](https://github.com/Horus645/swww) 
   - ❄️ **Screen locker** - [gtklock](https://github.com/jovanlanik/gtklock) 
-
+</div>
 
 ### Thanks 
 - [Thank you for your help.](https://github.com/linkfrg/)
