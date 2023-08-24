@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/github/stars/ivanka3006/monet?color=%23ebbcba&style=for-the-badge">
 </div>
 
-<img src="https://img.shields.io/github/stars/ivanka3006/monet?color=%23ebbcba&style=for-the-badge">
 
 <p></p>
 
