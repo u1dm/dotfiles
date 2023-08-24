@@ -28,7 +28,7 @@
   - ✨ **Bar** - [Waybar](https://github.com/Alexays/Waybar) 
   - 💦 **File Manager** - [Thunar](https://gitlab.xfce.org/xfce/thunar) 
   - 🌷 **Terminal** - [Kitty](https://sw.kovidgoyal.net/kitty/) 
-  - 🍄 **Shell** - [Zsh](https://www.zsh.org/) 
+  - 🍄 **Shell** - [Fish](https://fishshell.com/) 
   - 🪵 **Notifications** - [Mako](https://github.com/emersion/mako) 
   - 🌻 **Launcher** - [Rofi](https://github.com/lbonn/rofi) 
   - 🍁 **Wallpaper** - [swww](https://github.com/Horus645/swww) 
