@@ -8,7 +8,7 @@
   <p></p>
   <p><b><i> ~ Hyprland monet ~ </i></b></p>
   <img src="https://img.shields.io/github/last-commit/ivanka3006/monet?color=%23c4a7e7&style=for-the-badge">
-  <img src="https://img.shields.io/github/repo-size/ivanka3006/monet?>
+  <img src="https://img.shields.io/github/repo-size/ivanka3006/monet?">
   <img src="https://img.shields.io/github/stars/ivanka3006/monet?">
 </div>
 
