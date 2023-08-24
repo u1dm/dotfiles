@@ -1,0 +1,132 @@
+@import "../../.cache/wal/colors-waybar.css";
+
+/*---ОБЩЕЕ--------------------------------------------------------*/
+* {
+
+    font-family: JetBrainsMono;
+    font-size: 15px;
+    font-weight: bold;
+    padding-top: 1px;
+    padding-bottom: 2px;
+    
+}
+
+/*---БАР--------------------------------------------------------*/
+
+window#waybar {
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    background-color: rgba(0,0,0,0);
+}
+
+
+/*---TOOLTIP--------------------------------------------------------*/
+tooltip {
+    background-color: @background;
+    border: 2px solid;
+    border-color: @foreground;
+}
+
+/*-Надпись-*/
+tooltip label {
+    color: @foreground;
+}
+
+
+/*---ОСНОВНЫЕ МОДУЛИ--------------------------------------------------------*/
+#custom-logo,
+#window,
+#workspaces,
+#workspaces button,
+#tray,
+#language,
+#custom-micro,
+#custom-mako,
+#custom-cava,
+#custom-swaync,
+#custom-powermenu,
+#pulseaudio {
+    border-radius: 20px;
+    background-color: @background;
+    padding: 0 7.5px;
+    margin: 5px;
+	 font-size: 17px;
+    color: @foreground;
+}
+
+
+#custom-weather,
+#clock {
+    background-color: @background;
+	  padding-right: 0px;
+    margin: 0px;
+	  font-size: 19px;
+    color: @foreground;
+}
+
+
+#custom-powermenu {
+  padding-left: 6px;
+	margin-left: 0px;
+	font-size: 18px;
+}
+
+
+#custom-weather,
+#clock,
+#custom-logo {
+    color: @foreground;
+    border-radius: 20px;
+}
+
+
+#workspaces button:hover,
+#workspaces button.active {
+    background-color: rgb(60, 60, 60);
+    color: @foreground;
+    border-radius: 20px;
+}
+
+
+#custom-micro {
+    font-size: 20px;
+}
+
+#custom-logo {
+    padding: 8.5px;
+    font-size: 17px;
+    margin-left: 7.5px;
+    margin-right: 1.5px;
+}
+
+#custom-weather,
+#clock {
+    margin: 3px;
+    padding: 0 7.5px;
+    border: 90px;
+}
+
+#custom-weather {
+    margin-left: 7.5px;
+
+}
+
+
+#custom-music {
+    background-color: @background;
+    padding: 0 7.5px;
+    margin: 5px;
+	  font-size: 17px;
+    color: @foreground;  
+    border-radius : 20px;
+
+
+}
+#workspaces button {
+    padding: 0 4px;
+    margin: 2.5px;
+}
+
+#workspaces button.urgent {
+    background-color: #eb4d4b;
+}
