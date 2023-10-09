@@ -36,4 +36,3 @@
   - ❄️ **Screen locker** - [gtklock](https://github.com/jovanlanik/gtklock) 
 </div>
 
-- [💞 Thank you for your help.](https://github.com/linkfrg/)
