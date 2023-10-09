@@ -6,7 +6,7 @@ configuration {
 
 
 /*------------------ЦВЕТА И ШРИФТ-------------------------*/
-@import "~/.cache/wal/colors-rofi-dark.rasi"
+@import "colors-rofi-dark.rasi"
 * {
     font: "JetBrainsMono 12";
 }
@@ -18,7 +18,7 @@ window {
 
     border: 2px solid;
     border-color: @foreground;
-    border-radius: 20px;
+    border-radius: 12px;
 
     background-color: @background;
     padding: 0px;
@@ -58,7 +58,7 @@ textbox-prompt-colon {
 entry {
     background-color: inherit;
     text-color: inherit;
-    placeholder: "Поиск";
+    placeholder: "Search";
     placeholder-color: inherit;
 }
 
@@ -66,7 +66,7 @@ entry {
 listview {
     columns: 1;
     lines: 6;
-    scrollbar: true;
+    scrollbar: false;
     spacing: 10px;
     text-color: @foreground;
     background-color: @background;

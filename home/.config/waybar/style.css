@@ -1,21 +1,17 @@
-@import "../../.cache/wal/colors-waybar.css";
+@import "colors-waybar.css";
 
 /*---ОБЩЕЕ--------------------------------------------------------*/
 * {
-
     font-family: JetBrainsMono;
     font-size: 15px;
     font-weight: bold;
-    padding-top: 1px;
-    padding-bottom: 2px;
+
     
 }
 
 /*---БАР--------------------------------------------------------*/
 
 window#waybar {
-    padding-bottom: 30px;
-    margin-bottom: 30px;
     background-color: rgba(0,0,0,0);
 }
 
@@ -35,41 +31,48 @@ tooltip label {
 
 /*---ОСНОВНЫЕ МОДУЛИ--------------------------------------------------------*/
 #custom-logo,
+#clock,
 #window,
 #workspaces,
 #workspaces button,
 #tray,
 #language,
 #custom-micro,
+#custom-music.
+#custom-music1,
 #custom-mako,
 #custom-cava,
 #custom-swaync,
 #custom-powermenu,
 #pulseaudio {
-    border-radius: 20px;
+    border-radius: 7px;
     background-color: @background;
     padding: 0 7.5px;
     margin: 5px;
-	 font-size: 17px;
+	  font-size: 17px;
     color: @foreground;
+}
+
+#language {
+    padding-right: 10px;
+    padding-left: 10px;
+
 }
 
 
 #custom-weather,
 #clock {
     background-color: @background;
-	  padding-right: 0px;
-    margin: 0px;
 	  font-size: 19px;
     color: @foreground;
 }
 
 
 #custom-powermenu {
-  padding-left: 11.5px;
-  padding-right: 12px;
-	margin-left: 0px;
-	font-size: 18px;
+    padding-left: 11.5px;
+    padding-right: 12px;
+	  margin-right: 1px;
+	  font-size: 18px;
 }
 
 
@@ -77,15 +80,7 @@ tooltip label {
 #clock,
 #custom-logo {
     color: @foreground;
-    border-radius: 20px;
-}
 
-
-#workspaces button:hover,
-#workspaces button.active {
-    background-color: rgb(60, 60, 60);
-    color: @foreground;
-    border-radius: 20px;
 }
 
 
@@ -103,12 +98,7 @@ tooltip label {
     margin-right: 1.5px;
 }
 
-#custom-weather,
-#clock {
-    margin: 3px;
-    padding: 0 7.5px;
-    border: 90px;
-}
+
 
 #custom-weather {
     margin-left: 7.5px;
@@ -116,21 +106,7 @@ tooltip label {
 }
 
 
-#custom-music {
-    background-color: @background;
-    padding: 0 7.5px;
-    margin: 5px;
-	  font-size: 17px;
-    color: @foreground;  
-    border-radius : 20px;
-
-
-}
-#workspaces button {
-    padding: 0 4px;
-    margin: 2.5px;
-}
-
 #workspaces button.urgent {
+
     background-color: #eb4d4b;
 }

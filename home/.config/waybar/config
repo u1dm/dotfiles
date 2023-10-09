@@ -1,12 +1,12 @@
-{
-// НАСТРОЙКИ БАРА
-    	"layer": "top",
-    	"position": "top",
+ {
+// НАСТРОЙКИ БАРА	
+    	"layer": "bottom",
+    	"position": "bottom",
     	
 // МОДУЛИ
-		"modules-left": ["custom/logo", "wlr/workspaces", "custom/music"],
-		"modules-center": ["clock", "custom/weather"],
-		"modules-right": ["tray", "hyprland/language", "pulseaudio", "custom/powermenu"],
+		"modules-left": ["custom/powermenu","hyprland/workspaces"],
+		"modules-center": [],
+		"modules-right": ["hyprland/language", "pulseaudio", "clock"],
 
 
 // ЛОГО
@@ -51,15 +51,23 @@
 		
 		
 		"custom/music": {
+			"max-length": 64,
 			"format": "{}",
 			"interval": 1,
 			"exec": "~/.config/waybar/music.sh",
-			"tooltip": false,
-			"on-click-middle": "playerctl play-pause",
-		        "on-click": "playerctl previous",
-		       	"on-click-right": "playerctl next"
-		
+			"tooltip": false
 		},
+
+
+                "custom/music1": {
+                        "format": "󰙣",
+                        "on-click": "playerctl previous",
+                        "tooltip": false,
+                },
+
+
+
+
 
 // ТРЕЙ
 		"tray": {
@@ -69,7 +77,7 @@
     
 // ЧАСЫ
 		"clock": {
-			"format": "{:%b %d %H:%M}",
+			"format": "{:%a %d %H:%M}",
 			"format-alt": "{:%A, %d %B, %Y (%R)}"
 		},
     
@@ -108,10 +116,39 @@
     	},
     	
 // ВОРКСПЕЙСЫ
-    	"wlr/workspaces": {
-        	"format": "{name}",
+    	"hyprland/workspaces": {
+    		"format": "{icon}",
         	"on-click": "activate",
-        	"sort-by-number": true
+        	"sort-by-number": true,
+        	"format-icons": {
+        	"1": "󰆢",
+        	"2": "󰆢",
+        	"3": "󰆢",
+        	"4": "󰆢",
+        	"5": "󰆢",
+        	"6": "󰆢",
+        	"7": "󰆢",
+        	"8": "󰆢",
+        	"9": "󰆢",
+        	"10": "󰆢",
+        	"active": "",
+        	"urgent": "󰨓",
+        	"focused": "󰨓",
+        	"default": "󰨓",
+        	},
+        	
+        	"persistent_workspaces": {
+        	 "1": [],
+		 "2": [],
+		 "3": [],
+		 "4": [],
+		 "5": [],
+		 "6": [],
+		 "7": [],
+		 "8": [],
+		 "9": [],
+		 "10": []
+		 }
     	},
 		
 // CAVA

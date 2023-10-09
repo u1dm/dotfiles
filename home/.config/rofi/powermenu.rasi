@@ -5,7 +5,7 @@ configuration {
 
 
 /*------------------ЦВЕТА И ШРИФТ-------------------------*/
-@import "~/.cache/wal/colors-rofi-dark.rasi"
+@import "colors-rofi-dark.rasi"
 * {
     font: "JetBrainsMono 12";
 }
@@ -16,7 +16,7 @@ window {
     width: 300px;
 
     border: 2px solid;
-    border-radius: 20px;
+    border-radius: 12px;
     border-color: @foreground;
     background-color: @background;
     padding: 0px;
