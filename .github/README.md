@@ -1,12 +1,13 @@
 <div align="center">
 <img width="25%" src="https://i.imgur.com/ROIWqGt.png">
+<img width="25%" src="assets/Dotfiles.png">
 </div>
 
 
 
 <div align="center">
   <p></p>
-  <p><b><i> ~ Hyprland monet ~ </i></b></p>
+  <p><b><i> ~ Dotfiles. ~ </i></b></p>
   <img src="https://img.shields.io/github/last-commit/ivanka3006/monet?color=%23c4a7e7&style=for-the-badge">
   <img src="https://img.shields.io/github/repo-size/ivanka3006/monet?color=%23c4a7e7&style=for-the-badge">
   <img src="https://img.shields.io/github/stars/ivanka3006/monet?color=%23c4a7e7&style=for-the-badge">
@@ -14,9 +15,6 @@
 
 
 <p></p>
-
-| ![1](assets/1.png) | ![2](assets/2.png) |
-| --- | --- |
 
 
 <div align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.png"></div>
