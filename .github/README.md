@@ -1,6 +1,5 @@
 <div align="center">
-<img width="25%" src="https://i.imgur.com/ROIWqGt.png">
-<img width="25%" src="assets/Dotfiles.png">
+<img width="100%" src="Dotfiles.png">
 </div>
 
 
