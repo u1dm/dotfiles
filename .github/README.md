@@ -13,3 +13,8 @@
 </div>
 
 
+<div align="center">
+  <p></p>
+  <p> [Minimal](https://github.com/u1dm/dotfiles/tree/minimal) </p>
+  <img src="https://github.com/u1dm/dotfiles/blob/minimal/.github/assets/1.png">
+</div>
