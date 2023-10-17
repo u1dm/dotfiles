@@ -14,8 +14,8 @@
 
 ---
 
-##[Minimal](https://github.com/u1dm/dotfiles/tree/minimal)
+## [Minimal](https://github.com/u1dm/dotfiles/tree/minimal)
 ![Minimal](https://github.com/u1dm/dotfiles/blob/minimal/.github/assets/1.png?raw=true)
 
-##[Monet](https://github.com/u1dm/dotfiles/tree/monet)
+## [Monet](https://github.com/u1dm/dotfiles/tree/monet)
 ![Monet](https://github.com/u1dm/dotfiles/blob/monet/.github/assets/1.png?raw=true)
