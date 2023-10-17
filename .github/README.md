@@ -12,9 +12,10 @@
   <img src="https://img.shields.io/github/stars/ivanka3006/monet?color=E0E2E4&style=for-the-badge">
 </div>
 
+---
 
-<div align="center">
-  <p></p>
-  <p> [Minimal](https://github.com/u1dm/dotfiles/tree/minimal) </p>
-  <img src="https://github.com/u1dm/dotfiles/blob/minimal/.github/assets/1.png">
-</div>
+##[Minimal](https://github.com/u1dm/dotfiles/tree/minimal)
+![Minimal](https://github.com/u1dm/dotfiles/blob/minimal/.github/assets/1.png?raw=true)
+
+##[Monet](https://github.com/u1dm/dotfiles/tree/monet)
+![Monet](https://github.com/u1dm/dotfiles/blob/monet/.github/assets/1.png?raw=true)
