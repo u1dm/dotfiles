@@ -26,9 +26,9 @@ Here are some details about my setup:
 + **Launcher**: [Rofi](https://github.com/davatorium/rofi/) 
 + **Bar**: [Waybar](https://github.com/Alexays/Waybar)
 ---
-  **Mocha**
+**Mocha**
 <img width="80%" src="/Mocha/assets/1.png">
-  **Monet**
+**Monet**
 <img width="80%" src="/Monet/assets/1.png">
-  **Minimal**
+**Minimal**
 <img width="80%" src="/Minimal/assets/1.png">
