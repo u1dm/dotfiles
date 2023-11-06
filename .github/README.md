@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/github/stars/u1dm/dotfiles?color=E0E2E4&style=for-the-badge">
 </div>
 
-
+---
 
 This is my personal collection of configuration files.
 
