@@ -1,21 +1,34 @@
 <div align="center">
-<img width="100%" src="banner.png">
+<img width="80%" src="/banner.png">
 </div>
 
 
 
 <div align="center">
   <p></p>
-  <h1 align="center">Welcome ~</h1>
-  <img src="https://img.shields.io/github/last-commit/ivanka3006/monet?color=E0E2E4&style=for-the-badge">
-  <img src="https://img.shields.io/github/repo-size/ivanka3006/monet?color=E0E2E4&style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/ivanka3006/monet?color=E0E2E4&style=for-the-badge">
+  <h1 align="center">u1dm's dotfiles</h1>
+  <img src="https://img.shields.io/github/last-commit/u1dm/dotfiles?color=E0E2E4&style=for-the-badge">
+  <img src="https://img.shields.io/github/repo-size/u1dm/dotfiles?color=E0E2E4&style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/u1dm/dotfiles?color=E0E2E4&style=for-the-badge">
 </div>
 
+
+
+This is my personal collection of configuration files.
+
+Here are some details about my setup:
+
++ **WM**: [Hyprland](https://hyprland.org/) 
++ **OS**: [Arch Linux](https://archlinux.org/)
++ **Shell**: [Fish](https://fishshell.com/)
++ **Terminal**: [Kitty](https://github.com/kovidgoyal/kitty/) 
++ **Editor**: [Micro](https://github.com/neovim/neovim/) 
++ **Launcher**: [Rofi](https://github.com/davatorium/rofi/) 
++ **Bar**: [Waybar](https://github.com/Alexays/Waybar)
 ---
-
-## [Minimal](https://github.com/u1dm/dotfiles/tree/minimal)
-![Minimal](https://github.com/u1dm/dotfiles/blob/minimal/.github/assets/1.png?raw=true)
-
-## [Monet](https://github.com/u1dm/dotfiles/tree/monet)
-![Monet](https://github.com/u1dm/dotfiles/blob/monet/.github/assets/1.png?raw=true)
+  **Mocha**
+<img width="80%" src="/Mocha/assets/1.png">
+  **Monet**
+<img width="80%" src="/Monet/assets/1.png">
+  **Minimal**
+<img width="80%" src="/Minimal/assets/1.png">
