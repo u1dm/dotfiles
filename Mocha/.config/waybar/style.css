@@ -1,0 +1,118 @@
+
+* {
+	all: unset;	
+    font-family: JetBrainsMono;
+    font-size: 12px;
+    font-weight: bold;
+  	margin-top: 1px;
+  	margin-bottom: 1px;
+}
+
+
+window#waybar {;
+
+    background-color: #11111b ;
+}
+
+
+tooltip label {
+    color: @foreground;
+}
+
+
+#custom-logo,
+#clock,
+#window,
+#workspaces button,
+#tray,
+#language,
+#custom-micro,
+#custom-date,
+#custom-music.
+#custom-music1,
+#custom-mako,
+#custom-cava,
+#backlight,
+#battery,
+#battery.time,
+#network,
+#network.disconnected,
+#network.disabled,
+#disk,
+#network.linked,
+#network.ethernet,
+#network.wifi,
+#custom-swaync,
+#custom-powermenu,
+#pulseaudio {
+    border-radius: 7px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin: 3px;
+	font-size: 15px;
+	background-color: #181825 ;
+    color: #cdd6f4 ;
+}
+
+
+#custom-logo {
+	margin-left: 7px;
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
+
+#language {
+	color: #1e1e2e ;
+	background-color: #f5e0dc ;
+	margin-right: 7px;
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
+#clock {	
+	color: #1e1e2e ;
+	background-color: #cba6f7 ;
+}  
+
+#custom-date {
+	color: #1e1e2e ;
+	background-color: #89b4fa ; 
+}
+
+#pulseaudio {
+	color: #1e1e2e ;
+	background-color: #a6e3a1 ;
+}
+
+#network.wifi,
+#network {
+	color: #1e1e2e ;
+	background-color: #f9e2af ;
+}
+
+
+#workspaces button:hover,
+#workspaces button.active {
+    background-color: #bac2de ;
+    color: #1e1e2e  ;
+    border-radius: 7px;
+}
+
+
+#workspaces button {
+	padding-top: 6px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 6px;
+}
+
+#workspaces button.urgent {
+
+    background-color: #eb4d4b;
+}
+
+
+
