@@ -27,8 +27,17 @@ Here are some details about my setup:
 + **Bar**: [Waybar](https://github.com/Alexays/Waybar)
 ---
 **Mocha**
+
 <img width="80%" src="/Mocha/assets/1.png">
+
+---
+
 **Monet**
+
 <img width="80%" src="/Monet/assets/1.png">
+
+---
+
 **Minimal**
+
 <img width="80%" src="/Minimal/assets/1.png">
