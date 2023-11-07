@@ -6,7 +6,7 @@
 
 <div align="center">
   <p></p>
-  <h1 align="center">u1dm's dotfiles</h1>
+  <h1 align="center">u1dm's dotfiles 🍁 </h1>
   <img src="https://img.shields.io/github/last-commit/u1dm/dotfiles?color=E0E2E4&style=for-the-badge">
   <img src="https://img.shields.io/github/repo-size/u1dm/dotfiles?color=E0E2E4&style=for-the-badge">
   <img src="https://img.shields.io/github/stars/u1dm/dotfiles?color=E0E2E4&style=for-the-badge">
@@ -18,13 +18,13 @@ This is my personal collection of configuration files.
 
 Here are some details about my setup:
 
-+ **WM**: [Hyprland](https://hyprland.org/) 
-+ **OS**: [Arch Linux](https://archlinux.org/)
-+ **Shell**: [Fish](https://fishshell.com/)
-+ **Terminal**: [Kitty](https://github.com/kovidgoyal/kitty/) 
-+ **Editor**: [Micro](https://github.com/neovim/neovim/) 
-+ **Launcher**: [Rofi](https://github.com/davatorium/rofi/) 
-+ **Bar**: [Waybar](https://github.com/Alexays/Waybar)
++ **WM**: [Hyprland](https://hyprland.org/) 🌺
++ **OS**: [Arch Linux](https://archlinux.org/) 🍀
++ **Shell**: [Fish](https://fishshell.com/) 🌹
++ **Terminal**: [Kitty](https://github.com/kovidgoyal/kitty/) 💐
++ **Editor**: [Micro](https://micro-editor.github.io/) 🍄
++ **Launcher**: [Rofi](https://github.com/davatorium/rofi/) 🌾
++ **Bar**: [Waybar](https://github.com/Alexays/Waybar) 🌼
 ---
 **Mocha**
 
