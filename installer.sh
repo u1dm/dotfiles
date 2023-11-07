@@ -80,6 +80,7 @@ if [[ $ANSWER == "Y" || $ANSWER == "y" ]]; then
     echo 
 elif [[ $ANSWER == "N" || $ANSWER == "n" ]]; then
     echo "Bye Bye.."
+    exit
 else
     echo "Error! type 'y' or 'n' Exit..."
 fi
@@ -103,28 +104,6 @@ if [[ $ANSWER == "Y" || $ANSWER == "y" ]]; then
 	echo
 elif [[ $ANSWER == "N" || $ANSWER == "n" ]]; then
 	echo "Skipping packages install.."
-else
-    echo "Error! type 'y' or 'n' Exit..."
-fi
-
-read -rep $'Install fish?' ANSWER
-if [[ $ANSWER == "Y" || $ANSWER == "y" ]]; then
-	echo "Installing fish.."
-	sleep 3
-	fish
-	curl -sL https://git.io/fisher | source && fisher install jorgebucaran/fisher
-	fisher install jorgebucaran/nvm.fish
-	fisher install IlanCosman/tide@v5
-	chsh -s /usr/bin/fish
-	set -U fish_greeting
-	echo
-    echo
-    echo
-    echo
-    echo "Fish installation success..!"
-    echo 
-elif [[ $ANSWER == "N" || $ANSWER == "n" ]]; then
-	echo "Skipping fish install.."
 else
     echo "Error! type 'y' or 'n' Exit..."
 fi
