@@ -5,6 +5,7 @@ hyprlandp="
 	xdg-desktop-portal-hyprland
     xorg-xwayland
     qt5-wayland
+    catppuccin-gtk-theme-mocha
     qt6-wayland
     qt5ct
     qt6ct
