@@ -1,5 +1,5 @@
 <div align="center">
-<img width="80%" src="/banner.png">
+<img width="80%" src="./banner.png">
 </div>
 
 
@@ -12,32 +12,50 @@
   <img src="https://img.shields.io/github/stars/u1dm/dotfiles?color=E0E2E4&style=for-the-badge">
 </div>
 
+
+
 ---
+
 
 This is my personal collection of configuration files.
 
 Here are some details about my setup:
 
-+ **WM**: [Hyprland](https://hyprland.org/) 🌺
+```mint
+       /\         u1dm@archpc
+      /  \        os     Arch Linux
+     /\   \       host   X542UQ 1.0
+    /      \      kernel 6.5.9-arch2-1
+   /   ,,   \     uptime 16m
+  /   |  |  -\    pkgs   989
+ /_-''    ''-_\   memory 4475M / 15880M
+```
+
+
++ **WM**: [Hyprland](https://hyprland.org/) 🌺      
 + **OS**: [Arch Linux](https://archlinux.org/) 🍀
 + **Shell**: [Fish](https://fishshell.com/) 🌹
 + **Terminal**: [Kitty](https://github.com/kovidgoyal/kitty/) 💐
 + **Editor**: [Micro](https://micro-editor.github.io/) 🍄
 + **Launcher**: [Rofi](https://github.com/davatorium/rofi/) 🌾
 + **Bar**: [Waybar](https://github.com/Alexays/Waybar) 🌼
+
+
+
+
 ---
 **Mocha🍊**
 
-<img width="80%" src="/Mocha/assets/1.png">
+<img width="80%" src="./Mocha/assets/1.png" >
 
 ---
 
 **Monet🍎**
 
-<img width="80%" src="/Monet/assets/1.png">
+<img width="80%" src="./Monet/assets/1.png">
 
 ---
 
 **Minimal🫐**
 
-<img width="80%" src="/Minimal/assets/1.png">
+<img width="80%" src="./Minimal/assets/1.png">
