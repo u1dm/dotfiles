@@ -21,7 +21,7 @@ This is my personal collection of configuration files.
 
 Here are some details about my setup:
 
-```mint
+```
        /\         u1dm@archpc
       /  \        os       Arch Linux 🍀
      /\   \       wm       Hyprland 🌺
