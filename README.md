@@ -27,8 +27,8 @@ Here are some details about my setup:
      /\   \       wm       Hyprland 🌺
     /      \      shell    Fish 🌹
    /   ,,   \     terminal Kitty 💐
-  /   |  |  -\    laucher  rofi 🌾 
- /_-''    ''-_\   bar      waybar 🌼
+  /   |  |  -\    laucher  Rofi 🌾 
+ /_-''    ''-_\   bar      Waybar 🌼
 ```
 ---
 **Mocha🍊**
