@@ -23,26 +23,13 @@ Here are some details about my setup:
 
 ```mint
        /\         u1dm@archpc
-      /  \        os     Arch Linux
-     /\   \       host   X542UQ 1.0
-    /      \      kernel 6.5.9-arch2-1
-   /   ,,   \     uptime 16m
-  /   |  |  -\    pkgs   989
- /_-''    ''-_\   memory 4475M / 15880M
+      /  \        os       Arch Linux 🍀
+     /\   \       wm       Hyprland 🌺
+    /      \      shell    Fish 🌹
+   /   ,,   \     terminal Kitty 💐
+  /   |  |  -\    laucher  rofi 🌾 
+ /_-''    ''-_\   bar      waybar 🌼
 ```
-
-
-+ **WM**: [Hyprland](https://hyprland.org/) 🌺      
-+ **OS**: [Arch Linux](https://archlinux.org/) 🍀
-+ **Shell**: [Fish](https://fishshell.com/) 🌹
-+ **Terminal**: [Kitty](https://github.com/kovidgoyal/kitty/) 💐
-+ **Editor**: [Micro](https://micro-editor.github.io/) 🍄
-+ **Launcher**: [Rofi](https://github.com/davatorium/rofi/) 🌾
-+ **Bar**: [Waybar](https://github.com/Alexays/Waybar) 🌼
-
-
-
-
 ---
 **Mocha🍊**
 
