@@ -149,6 +149,9 @@ if [[ $ANSWER == "Mocha" || $ANSWER == "mocha" ]]; then
 	cp Mocha/wallpaper.png ~/
     cp -R Mocha/.config/* ~/.config/
 	echo "Coping success..!"
+    gsettings set org.gnome.desktop.interface icon-theme Papirus
+    gsettings set org.gnome.desktop.interface font-name "JetBrains Mono Regular 11"
+    gsettings set org.gnome.desktop.interface gtk-theme "Catppuccin-Mocha-Standard-Blue-Dark"
 
 elif [[ $ANSWER == "Monet" || $ANSWER == "monet" ]]; then
     echo "Coping configs Monet.."
@@ -163,18 +166,19 @@ elif [[ $ANSWER == "Monet" || $ANSWER == "monet" ]]; then
     echo
     echo
 	echo "Coping success..!"
-	
+    gsettings set org.gnome.desktop.interface icon-theme Papirus
+    gsettings set org.gnome.desktop.interface font-name "JetBrains Mono Regular 11"
+    gsettings set org.gnome.desktop.interface gtk-theme "Monet"
+    	
 elif [[ $ANSWER == "Minimal" || $ANSWER == "minimal" ]]; then
     echo "Coping configs Minimal.."
 	sleep 2
 	cp Monet/wallpaper.png ~/
     cp -R Minimal/.config/* ~/.config/
     echo "Coping success..!"
-    
+    gsettings set org.gnome.desktop.interface icon-theme Papirus
+    gsettings set org.gnome.desktop.interface font-name "JetBrains Mono Regular 11"
 else
     echo "Error! type (Mocha - Monet - Minimal) Exit.."
 fi
 
-gsettings set org.gnome.desktop.interface icon-theme Papirus
-gsettings set org.gnome.desktop.interface font-name "JetBrains Mono Regular 11"
-gsettings set org.gnome.desktop.interface gtk-theme "Catppuccin-Mocha-Standard-Blue-Dark"

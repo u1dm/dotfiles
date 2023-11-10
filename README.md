@@ -2,8 +2,6 @@
 <img width="80%" src="./banner.png">
 </div>
 
-
-
 <div align="center">
   <p></p>
   <h1 align="center">u1dm's dotfiles 🍁 </h1>
@@ -30,19 +28,26 @@ Here are some details about my setup:
   /   |  |  -\    laucher  Rofi 🌾 
  /_-''    ''-_\   bar      Waybar 🌼
 ```
----
-**Mocha🍊**
-
-<img width="80%" src="./Mocha/assets/1.png" >
-
----
-
-**Monet🍎**
-
-<img width="80%" src="./Monet/assets/1.png">
+How to install?
+```
+git clone https://github.com/u1dm/dotfiles
+cd dotfiles
+chmod +x installer.sh
+./installer
+```
 
 ---
+**My current dots 🌸**
+<div align="center">
+<img width="100%" src="./mocharice.jpg">
+</div>
 
-**Minimal🫐**
+---
 
-<img width="80%" src="./Minimal/assets/1.png">
+**Monet 🦢**
+<img width="100%" src="./Monet/assets/1.png">
+
+---
+
+**Minimal 🕊**
+<img width="100%" src="./Minimal/assets/1.png">
