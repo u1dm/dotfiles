@@ -33,7 +33,7 @@ How to install?
 git clone https://github.com/u1dm/dotfiles
 cd dotfiles
 chmod +x installer.sh
-./installer
+./installer.sh
 ```
 
 ---
